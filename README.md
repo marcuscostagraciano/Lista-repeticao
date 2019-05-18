@@ -8,6 +8,9 @@ Aluno: Marcus Vinícius da Costa Graciano - 2info3
 - [x] Exercício 4
 - [x] Exercício 5
 - [ ] Exercício 6
+  - [x] Basicão
+  - [ ] Com arrays
+  
 - [ ] Exercício 7
 - [ ] Exercício 8
 - [ ] Exercício 9
