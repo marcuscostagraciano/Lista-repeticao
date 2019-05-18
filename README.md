@@ -5,7 +5,7 @@ Aluno: Marcus Vinícius da Costa Graciano - 2info3
 - [ ] Exercício 1
 - [ ] Exercício 2
 - [x] Exercício 3
-- [ ] Exercício 4
+- [x] Exercício 4
 - [x] Exercício 5
 - [ ] Exercício 6
 - [ ] Exercício 7
