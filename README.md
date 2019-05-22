@@ -9,7 +9,7 @@ Aluno: Marcus Vinícius da Costa Graciano - 2info3
 - [x] Exercício 5
 - [ ] Exercício 6
   - [x] Basicão
-  - [ ] Com arrays
+  - [x] Com arrays (bolado)
   
 - [ ] Exercício 7
 - [ ] Exercício 8
