@@ -11,12 +11,12 @@ Aluno: Marcus Vinícius da Costa Graciano - 2info3
   - [x] Basicão
   - [x] Com arrays (bolado)
   
-- [ ] Exercício 7
-- [ ] Exercício 8
-- [ ] Exercício 9
-- [ ] Exercício 10
-- [ ] Exercício 11
-- [ ] Exercício 12
+- [x] Exercício 7
+- [x] Exercício 8
+- [x] Exercício 9
+- [x] Exercício 10
+- [x] Exercício 11
+- [x] Exercício 12
 - [ ] Exercício 13
 - [ ] Exercício 14
 - [ ] Exercício 15
